@@ -1,6 +1,27 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: neon
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
+include: ["_pages"]
+
 title: Nick Dirschel
-description: Your one stop shop to all things dirschn
+logo: assets/images/dirschn.png
+name: Nick Dirschel
+description: A site to showcase some of the things about Nick Dirschel.
+repository: "dirschn/dirschn.github.io"
+
+# Site Author
+author:
+  name             : "Nick Dirschel"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A full stack web developer with a focus on Ruby on Rails"
+  location         : "MA, USA"
+  email            : "dirschn@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dirschn@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://dirschn.github.io"
