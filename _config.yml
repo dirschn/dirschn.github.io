@@ -11,6 +11,9 @@ name: Nick Dirschel
 description: A site to showcase some of the things about Nick Dirschel.
 repository: "dirschn/dirschn.github.io"
 
+atom_feed:
+  hide: true
+
 # Site Author
 author:
   name             : "Nick Dirschel"
