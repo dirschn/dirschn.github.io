@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-toc: true
+title: "About"
 ---
 
-I do things
+Full stack software engineer with extensive experience with Ruby on Rails. More coming soon!
