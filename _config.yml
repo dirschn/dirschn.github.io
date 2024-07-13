@@ -18,7 +18,7 @@ atom_feed:
 author:
   name             : "Nick Dirschel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A full stack web developer with a focus on Ruby on Rails"
+  bio              : "A full stack web developer with a focus on clean, maintainable code"
   location         : "MA, USA"
   email            : "dirschn@gmail.com"
   links:
