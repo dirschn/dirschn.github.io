@@ -1,6 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: 'About me'
 ---
+Hello! I’m a proud UMass Amherst Computer Engineering grad with a passion for all things tech. During my academic journey, I delved into the fascinating realms of embedded systems engineering, computer software design, and mastered (well, at least learned) a rainbow of coding languages. Now, I’m spinning my web magic as a full stack developer, wielding Ruby on Rails, Vue.js, and a dash of PHP. I’m on the lookout for a fun, dynamic company where the culture is as delightful as the code, and work-life balance is more than just a buzzword. Let's create something amazing together!
 
-Full stack software engineer with extensive experience with Ruby on Rails. More coming soon!
+## Professional
+I spent 7 years (and counting) working for UMass Transit services in a number of roles. I did a lot of things with buses including driving, cleaning, and maintenance! I also learned a lot about how transportation agencies work and what it takes to keep them running. UMass Transit's Meet and Greet department is where I stepped into my first managerial role. I spent about a year managing the department, where I oversaw the onboarding and training of more than 15 employees. While I enjoyed my time as the Meet and Greet Supervisor, I was itching to get back to what I really love- coding! We have an IT department that keeps all of UMass Amherst's transportation departing running (digitally) and I was lucky enough to join them. That is where I started my professional software development, and it's the place that kindled my love for Ruby on Rails as well as beautiful, simple code.
+
+While I love transportation and being around big vehicles, I realized I was ready for my next challenge. Following UMass Transit is my time at Creative Circle Media Solutions, a company dedicated to the newspaper industry. While here, I've learned about PHP and deepened my knowledge and love for Ruby on Rails. We have quite a few systems to keep running here including a fully featured CMS written in PHP and a multi-platform publishing system built with Ruby on Rails. This Rails app was my first foray into front-end JavaScript frameworks in the form of Vue.JS! In the short time I've been here I've made many improvements to both systems- from Google Maps API tweaks to rich text editor replacements and just about anything in between.
+
+## Personal
+When I'm not coding, you'll likely find me outdoors enjoying a round of disc golf, paddling down a serene river in my kayak, or exploring new trails on my bike. I'm also an avid climber, always looking for the next challenging route. At home, I love tinkering with my 3D printer, working on various projects, and getting my hands dirty with anything car-related. Sharing my adventures is my cat, Mouse, who adds a dash of feline charm to my life. Life's an adventure, and I embrace it with enthusiasm and curiosity!
