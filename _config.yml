@@ -22,9 +22,6 @@ author:
   location         : "MA, USA"
   email            : "dirschn@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dirschn@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dirschn.github.io"
