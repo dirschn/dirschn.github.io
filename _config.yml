@@ -17,7 +17,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Nick Dirschel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/nick-dirschel.jpg"
   bio              : "A full stack web developer with a focus on clean, maintainable code"
   location         : "MA, USA"
   email            : "dirschn@gmail.com"
