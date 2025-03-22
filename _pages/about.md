@@ -9,10 +9,7 @@ I spent 7 years (and counting) working for UMass Transit services in a number of
 
 While I love transportation and being around big vehicles, I realized I was ready for my next challenge. Following UMass Transit is my time at a company in the newspaper industry. While there, I learned about PHP and deepened my knowledge and love for Ruby on Rails. I worked on quite a few systems there including a fully featured CMS written in PHP and a multi-platform publishing system built with Ruby on Rails. This Rails app was my first foray into front-end JavaScript frameworks in the form of Vue.JS!
 
-Next up is Parsons Corporation! I've been here a short while but in that time I've learned a lot about Javascript, PHP, and Python.
-I am the lead developer here for a project called Silenthiun, which is a covert communications solution. This project has helped me
-learn much about Javascript through the use of NodeJS and React. I have also worked on web apps with a Python
-backend, and continued my PHP journey with sone custom Moodle Plugins for our use.
+Next up is Parsons Corporation! I've been here a short while but in that time I've learned a lot about Javascript, PHP, and Python. I am the lead developer here for a project called Silenthiun, which is a covert communications solution. This project has helped me learn much about Javascript through the use of NodeJS and React. I have also worked on web apps with a Python backend, and continued my PHP journey with sone custom Moodle Plugins for our use.
 
 ## Personal
 When I'm not coding, you'll likely find me outdoors enjoying a round of disc golf, paddling down a serene river in my kayak, or exploring new trails on my bike. I'm also an avid climber, always looking for the next challenging route. At home, I love tinkering with my 3D printer, working on various projects, and getting my hands dirty with anything car-related. Sharing my adventures is my cat, Mouse, who adds a dash of feline charm to my life. Life's an adventure, and I embrace it with enthusiasm and curiosity!
