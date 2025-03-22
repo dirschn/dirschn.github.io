@@ -15,11 +15,11 @@ Here are some pics to show the resulting product:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <figure style="text-align: center; margin: 0; flex: 1; min-width: 250px;">
     <img src="/assets/images/glasses-stand/with-glasses.jpg" alt="Glasses holder mounted on wall">
-    <figcaption>Wall mounted glasses holder with glasses</figcaption>
+    <figcaption style="font-family: inherit;">Wall mounted glasses holder with glasses</figcaption>
   </figure>
 
   <figure style="text-align: center; margin: 0; flex: 1; min-width: 250px;">
     <img src="/assets/images/glasses-stand/object.jpg" alt="Glasses holder close-up">
-    <figcaption>Close-up view of the printed holder</figcaption>
+    <figcaption style="font-family: inherit;">Close-up view of the printed holder</figcaption>
   </figure>
 </div>
