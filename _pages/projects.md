@@ -1,7 +1,7 @@
 ---
-title: 'My projects'
+title: 'My coding projects'
 layout: collection
-permalink: /projects/
-collection: projects
+permalink: /coding/
+collection: coding
 classes: wide
 ---

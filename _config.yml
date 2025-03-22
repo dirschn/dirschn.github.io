@@ -39,10 +39,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
+  # _coding
   - scope:
       path: ""
-      type: projects
+      type: coding
     values:
       layout: single
       author_profile: true
@@ -57,7 +57,7 @@ defaults:
       share: false
 
 collections:
-  projects:
+  coding:
     output: true
     permalink: /:collection/:path/
   3d-printing:

@@ -1,7 +1,7 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "Coding"
+    url: /coding/
   - title: "3D Printing"
     url: /3d-printing/
