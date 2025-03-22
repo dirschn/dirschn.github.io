@@ -47,9 +47,20 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _3d-printing
+  - scope:
+      path: ""
+      type: 3d-printing
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path/
+  3d-printing:
     output: true
     permalink: /:collection/:path/
 

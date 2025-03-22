@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "3D Printing"
+    url: /3d-printing/
