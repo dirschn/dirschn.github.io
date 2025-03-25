@@ -6,8 +6,6 @@ sidebar:
   - text: '[Check it out!](https://www.thingiverse.com/thing:6987057)'
 ---
 
-# Wall-Mounted Glasses Holder: A Simple Solution for a Common Problem
-
 After moving into our new apartment, I found myself constantly misplacing my glasses or leaving them on random surfaces. I needed a designated spot where I could safely store them when not in use - something minimalist that wouldn't clash with our décor.
 
 My search on Thingiverse yielded limited options for wall-mounted glasses holders, and the one design I did like unfortunately proved too small for my frames. So I decided to create my own solution using FreeCAD.

@@ -6,7 +6,7 @@ sidebar:
   - text: '[Check it out!](https://www.thingiverse.com/thing:6990366)'
 ---
 
-# A Stylish Solution for Pet Waste Management
+## A Stylish Solution for Pet Waste Management
 
 If you're a pet owner like me, you know the importance of having waste bags readily available for those daily clean-up duties. For the longest time, our litter box cleaning bags were scattered around without a proper storage solution - floating in drawers or stuffed in random cabinets.
 
