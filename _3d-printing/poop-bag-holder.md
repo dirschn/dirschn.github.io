@@ -6,7 +6,15 @@ sidebar:
   - text: '[Check it out!](https://www.thingiverse.com/thing:6990366)'
 ---
 
-We use these little bags when we clean out the litter boxes, and until now they were just loose and without a home. I created this design to give them a special place to live, with a bonus of being able to be used horizontally or vertically with ease!
+# A Stylish Solution for Pet Waste Management
+
+If you're a pet owner like me, you know the importance of having waste bags readily available for those daily clean-up duties. For the longest time, our litter box cleaning bags were scattered around without a proper storage solution - floating in drawers or stuffed in random cabinets.
+
+Fed up with the disorganization, I decided to design a dedicated holder that would keep these essential bags neatly organized and easily accessible. Drawing inspiration from classic toilet paper roll holders, this design offers the perfect home for your pet waste bags!
+
+## Versatile Mounting Options
+
+One of my favorite features of this design is its versatility. Whether you prefer a horizontal installation next to your cat's litter box or a vertical mount in your utility closet, this holder adapts to your space and preferences with ease. The simple yet functional design ensures that you'll always have a bag within reach when duty calls!
 
 <div class="image-container">
   <div class="image-row">
