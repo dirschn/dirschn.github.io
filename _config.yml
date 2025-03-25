@@ -69,3 +69,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dirschn"
+
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-403XBLBFDJ"
+    anonymize_ip         : false
