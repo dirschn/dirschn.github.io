@@ -65,9 +65,9 @@ I'm excited about opportunities that combine my technical skills with meaningful
 
 ## The Personal Side
 
-**Education:** BS Computer Engineering, UMass Amherst
-**Location:** Massachusetts, USA
-**Interests:** Disc golf, kayaking, rock climbing, 3D printing, automotive projects
-**Fun Fact:** My cat Mouse has attended more virtual meetings than most hummingbirds
+- **Education:** BS Computer Engineering, UMass Amherst
+- **Location:** Massachusetts, USA
+- **Interests:** Disc golf, kayaking, rock climbing, 3D printing, automotive projects
+- **Fun Fact:** My cat Mouse has attended more virtual meetings than most hummingbirds
 
 Ready to learn more about how we might work together? [Let's connect!](/contact/)
