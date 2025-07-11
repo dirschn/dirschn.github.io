@@ -5,11 +5,25 @@ plugins:
 - jekyll-include-cache
 include: ["_pages"]
 
-title: Nick Dirschel
+title: Nick Dirschel - Full Stack Developer
 logo: assets/images/dirschn.png
 name: Nick Dirschel
-description: A site to showcase some of the things about Nick Dirschel.
+description: Full stack developer specializing in Ruby on Rails, JavaScript, and modern web technologies. Passionate about building innovative solutions and elegant code.
 repository: "dirschn/dirschn.github.io"
+url: "https://dirschn.com"
+baseurl: ""
+
+# SEO
+lang: en-US
+locale: en-US
+
+# Social
+social:
+  type: Person
+  name: Nick Dirschel
+  links:
+    - "https://github.com/dirschn"
+    - "https://www.linkedin.com/in/dirschn/"
 
 atom_feed:
   hide: true
@@ -18,7 +32,7 @@ atom_feed:
 author:
   name             : "Nick Dirschel"
   avatar           : "/assets/images/nick-dirschel.jpg"
-  bio              : "A full stack web developer with a focus on clean, maintainable code"
+  bio              : "Full stack developer with expertise in Ruby on Rails, JavaScript, and modern web technologies. Lead Developer at Parsons Corporation."
   location         : "MA, USA"
   email            : "nick@dirschn.com"
   links:
@@ -69,3 +83,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dirschn"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dirschn/"

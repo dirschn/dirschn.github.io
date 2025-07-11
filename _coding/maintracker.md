@@ -8,7 +8,17 @@ sidebar:
     text: 'Ruby on Rails, Bootstrap, Nginx, SQL (SQLite and MySQL), Linux Server Administration'
 ---
 
-I've always been fascinated by cars, computers, and knowing random statistics. This project is a way for me to combine all 3 of those, while also building a very useful tool. Maintracker is a place for you to keep everything related to your vehicles- receipts, documentation, and more! The more you put in the better it gets, too! You'll get reports of how much money you've spent over time and on which parts. You will also get your vehicle's miles per gallon (MPG) over time, if applicable.
+I've always been fascinated by the intersection of automotive technology, data analysis, and practical problem-solving. Maintracker represents my approach to building comprehensive solutions that grow more valuable with use - a vehicle maintenance and expense tracking platform that transforms routine record-keeping into actionable insights.
+
+## Technical Foundation
+
+Built with Ruby on Rails and deployed on Linux infrastructure, Maintracker demonstrates full-stack development capabilities from database design through user interface. The application emphasizes clean, maintainable code and responsive design principles.
+
+**Core Technologies:**
+- **Backend:** Ruby on Rails with SQLite/MySQL database options
+- **Frontend:** Bootstrap framework with custom responsive styling
+- **Infrastructure:** Nginx web server on Linux with automated backups
+- **Security:** User authentication, data validation, and secure file handling
 
 ## Features
 
@@ -29,9 +39,19 @@ Consistent tracking will also provide you with accurate MPG measurements. Over t
 
 While you (hopefully!) won't be having maintenance done on your vehicle nearly as often as you refill the tank, it's arguably more important to keep good track of any maintenance done. These purchases are often far more expensive and can come with warranties- both very good reasons to be sure you don't lose the receipts that came with them! You can upload as many images or PDFs of receipts as you need to for each maintenance record to ensure you always have access to them when you need them.
 
-### More!
-There are more features, and soon they'll all be outlined here!
+### Additional Features
+Beyond fuel and maintenance tracking, Maintracker includes expense categorization, receipt storage, and trend analysis capabilities. The platform is designed to accommodate various vehicle types and usage patterns.
 
-## Plans
+## Future Development
 
-I have lots of plans for the future with this project, and soon this section will detail them all!
+**API Development:** RESTful API to enable mobile applications and third-party integrations
+**Analytics Enhancement:** Advanced reporting with trend analysis and predictive maintenance suggestions
+**Multi-user Support:** Household and fleet management capabilities for shared vehicle tracking
+**Integration Opportunities:** Connections with automotive APIs for automated data collection
+**Mobile Optimization:** Native mobile applications for field data entry and quick access
+
+## Development Philosophy
+
+Maintracker exemplifies my approach to building software that solves real problems while maintaining technical excellence. The application grows more valuable as users add data, demonstrating how thoughtful database design and user experience can create compelling long-term engagement.
+
+This project showcases full-stack development capabilities, from Linux server administration and database optimization to responsive front-end design and user experience considerations.

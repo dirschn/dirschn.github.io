@@ -1,15 +1,73 @@
 ---
 permalink: /about/
-title: 'About me'
+title: 'About Nick Dirschel'
+classes: wide
+toc: true
+toc_label: "About Me"
 ---
-Hello! I’m a proud UMass Amherst Computer Engineering grad with a passion for all things tech. During my academic journey, I dove into the fascinating realms of embedded systems engineering, computer software design, and mastered (well, at least learned) a rainbow of coding languages. Now, I’m spinning my web magic as a full stack developer, wielding Ruby on Rails, Vue.js, and a dash of PHP. I’m on the lookout for a fun, dynamic company where the culture is as delightful as the code, and work-life balance is more than just a buzzword. Let's create something amazing together!
 
-## Professional
-I spent 7 years (and counting) working for UMass Transit services in a number of roles. I did a lot of things with buses including driving, cleaning, and maintenance! I also learned a lot about how transportation agencies work and what it takes to keep them running. UMass Transit's Meet and Greet department is where I stepped into my first managerial role. I spent about a year managing the department, where I oversaw the onboarding and training of more than 15 employees. While I enjoyed my time as the Meet and Greet Supervisor, I was itching to get back to what I really love- coding! We have an IT department that keeps all of UMass Amherst's transportation departing running (digitally) and I was lucky enough to join them. That is where I started my professional software development, and it's the place that kindled my love for Ruby on Rails as well as beautiful, simple code.
+## Professional Overview
 
-While I love transportation and being around big vehicles, I realized I was ready for my next challenge. Following UMass Transit is my time at a company in the newspaper industry. While there, I learned about PHP and deepened my knowledge and love for Ruby on Rails. I worked on quite a few systems there including a fully featured CMS written in PHP and a multi-platform publishing system built with Ruby on Rails. This Rails app was my first foray into front-end JavaScript frameworks in the form of Vue.JS!
+I'm a passionate full stack developer with a unique journey that combines computer engineering education with hands-on experience across transportation technology, content management, and web application development. My career has given me a broad perspective on how technology can solve real-world problems, from managing university transit systems to building secure communications platforms.
 
-Next up is Parsons Corporation! I've been here a short while but in that time I've learned a lot about Javascript, PHP, and Python. I am the lead developer here for a project called Silenthiun, which is a covert communications solution. This project has helped me learn much about Javascript through the use of NodeJS and React. I have also worked on web apps with a Python backend, and continued my PHP journey with sone custom Moodle Plugins for our use.
+Currently serving as Lead Developer at Parsons Corporation, I focus on creating robust, maintainable solutions using modern web technologies. My approach emphasizes clean code, user-centered design, and collaborative development practices.
 
-## Personal
-When I'm not coding, you'll likely find me outdoors enjoying a round of disc golf, paddling down a serene river in my kayak, or exploring new trails on my bike. I'm also an avid climber, always looking for the next challenging route. At home, I love tinkering with my 3D printer, working on various projects, and getting my hands dirty with anything car-related. Sharing my adventures is my cat, Mouse, who adds a dash of feline charm to my life. Life's an adventure, and I embrace it with enthusiasm and curiosity!
+## What Drives Me
+
+**Problem-Solving First:** Whether I'm debugging a complex Rails application or designing a 3D-printed solution for a household problem, I love the process of understanding challenges and crafting elegant solutions.
+
+**Continuous Learning:** Technology evolves rapidly, and I embrace that change. From my early days with embedded systems to current work with React and Node.js, I'm always expanding my toolkit.
+
+**Quality Over Speed:** I believe in building things right the first time. Clean, well-documented code saves time and frustration down the road, both for future maintainers and users.
+
+## Technical Journey
+
+My programming journey began during my Computer Engineering studies at UMass Amherst, where I dove into embedded systems and software design. This foundation gave me a deep appreciation for both hardware constraints and software possibilities.
+
+### Key Experiences:
+
+**Ruby on Rails Expert:** Discovered Rails during my time at UMass Transit IT and fell in love with the framework's emphasis on convention over configuration. Built multiple production applications and learned the importance of maintainable code.
+
+**Modern JavaScript Expertise:** Extensive experience with modern JavaScript principles and TypeScript, from complex frontend applications to full-stack development. Comfortable with contemporary frameworks like React and Vue.js as well as advanced language features.
+
+**Multi-Language Adaptability:** Successfully transitioned between PHP content management systems, Python web applications, and Node.js APIs, demonstrating the ability to pick up new technologies quickly.
+
+## Beyond the Keyboard
+
+When I step away from coding, you'll find me embracing the outdoors and hands-on projects:
+
+**Outdoor Adventures:** Disc golf courses, kayaking rivers, and climbing routes provide the perfect mental reset. These activities teach patience, strategy, and problem-solving – skills that translate well to development work.
+
+**3D Printing & Design:** My maker space hobby combines creativity with engineering. Using FreeCAD to solve everyday problems reinforces my approach to software: understand the problem, design a solution, iterate based on feedback.
+
+**Automotive Enthusiasm:** Cars represent the intersection of mechanical engineering, electronics, and increasingly, software. Working on vehicles helps me appreciate how different systems integrate to create a cohesive experience.
+
+My cat Mouse supervises all these activities and provides excellent rubber duck- cat?- debugging assistance.
+
+## Professional Values
+
+**Collaboration Over Competition:** The best solutions come from diverse perspectives working together. I prefer environments where knowledge sharing and mutual support are the norm.
+
+**Work-Life Integration:** Sustainable careers require balance. I bring my best work when I have time for outdoor adventures, creative projects, and the relationships that matter most.
+
+**Mentorship & Growth:** Whether I'm learning from senior developers or helping junior colleagues, I believe in the power of shared knowledge and continuous improvement.
+
+## What's Next
+
+I'm excited about opportunities that combine my technical skills with meaningful impact. Ideal roles involve:
+
+- **Modern Web Technologies:** Ruby on Rails, JavaScript frameworks, and emerging tools
+- **Collaborative Teams:** Where code reviews and pair programming are standard practice
+- **Real-World Impact:** Building applications that solve genuine problems for real users
+- **Growth-Oriented Culture:** Companies that invest in their people's professional development
+
+---
+
+## The Personal Side
+
+**Education:** BS Computer Engineering, UMass Amherst
+**Location:** Massachusetts, USA
+**Interests:** Disc golf, kayaking, rock climbing, 3D printing, automotive projects
+**Fun Fact:** My cat Mouse has attended more virtual meetings than most hummingbirds
+
+Ready to learn more about how we might work together? [Let's connect!](/contact/)

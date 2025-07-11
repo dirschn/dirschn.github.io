@@ -1,0 +1,59 @@
+<svg width="1920" height="600" viewBox="0 0 1920 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1b1b;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#1a2e1a;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#3d2817;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f1f1f;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M 120 0 L 0 0 0 120" fill="none" stroke="rgba(139,69,19,0.2)" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="60" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="30" r="2" fill="rgba(34,139,34,0.25)"/>
+    </pattern>
+  </defs>
+
+  <!-- Base gradient background -->
+  <rect width="1920" height="600" fill="url(#bgGradient)"/>
+
+  <!-- Grid pattern overlay -->
+  <rect width="1920" height="600" fill="url(#grid)"/>
+
+  <!-- Subtle dot pattern -->
+  <rect width="1920" height="600" fill="url(#dots)"/>
+
+  <!-- Geometric shapes for visual interest -->
+  <g opacity="0.15">
+    <!-- Large triangles -->
+    <polygon points="0,0 300,0 150,260" fill="rgba(139,69,19,0.3)"/>
+    <polygon points="1620,600 1920,600 1770,340" fill="rgba(34,139,34,0.3)"/>
+
+    <!-- Hexagons -->
+    <g transform="translate(400, 100)">
+      <polygon points="50,0 100,29 100,87 50,116 0,87 0,29" fill="none" stroke="rgba(160,82,45,0.4)" stroke-width="2"/>
+    </g>
+    <g transform="translate(1300, 200)">
+      <polygon points="40,0 80,23 80,69 40,92 0,69 0,23" fill="none" stroke="rgba(107,142,35,0.4)" stroke-width="2"/>
+    </g>
+
+    <!-- Circles -->
+    <circle cx="800" cy="450" r="80" fill="none" stroke="rgba(205,133,63,0.3)" stroke-width="2"/>
+    <circle cx="1500" cy="150" r="60" fill="none" stroke="rgba(85,107,47,0.3)" stroke-width="2"/>
+
+    <!-- Diagonal lines for tech feel -->
+    <g stroke="rgba(139,69,19,0.2)" stroke-width="1">
+      <line x1="0" y1="200" x2="400" y2="0"/>
+      <line x1="600" y1="600" x2="1000" y2="400"/>
+      <line x1="1200" y1="0" x2="1600" y2="300"/>
+      <line x1="1400" y1="600" x2="1920" y2="300"/>
+    </g>
+  </g>
+
+  <!-- Subtle code-like elements -->
+  <g opacity="0.12" fill="rgba(205,133,63,0.5)" font-family="monospace" font-size="12">
+    <text x="100" y="500">function() { return innovation; }</text>
+    <text x="1200" y="500">const developer = creative;</text>
+    <text x="700" y="100">// Building the future</text>
+  </g>
+</svg>
