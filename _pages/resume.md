@@ -12,75 +12,95 @@ toc_label: "Sections"
   </a>
 </div>
 
+## Summary
+
+Full-stack developer specializing in Ruby on Rails, JavaScript/TypeScript, and React/Next.js. Experienced in API development, cloud infrastructure, and CI/CD automation, with a focus on building secure, scalable web applications that deliver measurable impact.
+
 ## Experience
 
-### Lead Developer | Parsons Corporation
-*Current Position*
+### Lead Software Engineer | Parsons Corporation
+*December 2024 - Present*
 
-- Leading development of Silenthium, a covert communications solution
-- Working with NodeJS, React, Python, and PHP technologies
-- Developing custom Moodle plugins for specialized training environments
-- Collaborating with cross-functional teams on secure communications systems
+- Develop a Rails 8 learning management system integrating Next.js course applications with automated TypeScript client generation, milestone-based progress tracking, and role-based dashboards for students and administrators
+- Engineer a virtual machine management platform with integrations across AWS, Google Cloud, DigitalOcean, and Vultr
+- Architect a secure communications platform with end-to-end automated provisioning of database, messaging server, web infrastructure, SSL/TLS, and firewall hardening using Node.js and React
+- Collaborate with cross-functional teams to design and deliver user-centric, intuitive web applications
+- Design and integrate scalable, modular, full-stack solutions aligned with business and user needs
+- Administer and optimize Linux-based systems for reliable hosting, deployment, and monitoring
+- Ensure secure connectivity and data protection through technologies like WireGuard VPN and other privacy-focused protocols
 
-**Technologies:** JavaScript, NodeJS, React, Python, PHP, Moodle
+**Technologies:** Ruby on Rails, Next.js, Node.js, React, TypeScript, AWS, Google Cloud, DigitalOcean, Vultr, WireGuard VPN, Linux
 
-### Software Developer | UMass Transit IT Department
-*Current Position*
+### Software Engineer | UMass Transit Services
+*November 2021 - Present (Part-time since 2024)*
 
-- Develop transportation management systems using Ruby on Rails
-- Maintain and improve digital infrastructure for university transit operations
-- Focus on clean, maintainable code practices
-- Collaborate with operations teams to understand business requirements
+- Maintain and modernize a Rails-based transit operations platform powering employee management, scheduling, vehicle maintenance, and training workflows
+- Maintain and modernize a Rails-based parking management system integrating T2 Flex/Iris APIs with SOAP web services, automated entity synchronization across multiple data sources, and role-based access control for parking enforcement and permit administration
+- Overhaul test suite for app to increase reliability and reduce bug introduction
+- Collaborate directly with operations staff and end users to troubleshoot, triage in-app feedback, and iterate product improvements
 
-**Technologies:** Ruby on Rails, Database Management, System Administration
+**Technologies:** Ruby on Rails, T2 Flex/Iris APIs, SOAP web services, Database Management, System Administration
 
 ### Full Stack Developer | Newspaper Industry
-*Previous Role*
+*2024*
 
 - Developed and maintained a fully featured CMS using PHP
-- Built multi-platform publishing system with Ruby on Rails
-- Implemented front-end solutions using Vue.js
+- Built multi-platform publishing system with Ruby on Rails and Vue.js
 - Collaborated on content management and distribution systems
 
 **Technologies:** Ruby on Rails, PHP, Vue.js, CMS Development
-
-### Meet and Greet Supervisor | UMass Transit
-*Previous Role*
-
-- Managed department operations and staff of 15+ employees
-- Oversaw onboarding and training processes
-- Developed operational procedures and workflows
-- Balanced management responsibilities with hands-on technical work
 
 ## Technical Skills
 
 ### Programming Languages
 - **Ruby** - Advanced (Rails framework)
-- **JavaScript** - Advanced (Node.js, React, Vue.js)
-- **PHP** - Intermediate (CMS development, Moodle plugins)
-- **Python** - Intermediate (Web applications, data processing)
-- **SQL** - Intermediate (SQLite, MySQL)
+- **JavaScript (ES6+)** - Advanced (Node.js, React, Vue.js)
+- **TypeScript** - Advanced (Angular, React applications)
+- **Go** - Intermediate (Backend services)
+- **SQL** - Advanced (PostgreSQL, MySQL, database design)
+- **HTML5/CSS3/SASS** - Advanced (Responsive design)
+- **Python** - Intermediate (Web applications, automation)
+- **C++** - Intermediate (Systems programming)
+- **Java** - Intermediate (Object-oriented development)
 
 ### Frameworks & Technologies
 - Ruby on Rails
 - React.js
+- Next.js
+- Angular
 - Vue.js
 - Node.js
 - Bootstrap
-- Nginx
+- jQuery
 - Linux Server Administration
 
 ### Tools & Platforms
 - Git/GitHub
+- Docker
+- PostgreSQL
+- MySQL
+- Redis
 - Linux/Unix systems
+- macOS
+- Bash scripting
 - Database design and optimization
 - Web application security
 - RESTful API development
 
+### Cloud & DevOps
+- AWS (EC2, S3)
+- Google Cloud Platform (GCP)
+- DigitalOcean
+- Vultr
+- CI/CD
+- WireGuard VPN
+- SSL/TLS configuration
+- Firewall hardening
+
 ## Education
 
 **Bachelor of Science in Computer Engineering**
-*University of Massachusetts Amherst*
+*University of Massachusetts Amherst* | September 2016 - May 2020
 
 - Focus on embedded systems engineering
 - Computer software design
@@ -92,16 +112,16 @@ toc_label: "Sections"
 ### TimeDash - Time Tracking Application
 [Source Code](https://github.com/dirschn/hour-tracker) | [Details](/coding/time-dash/)
 
-A full-stack time tracking application demonstrating modern development practices with auto-generated API documentation and type-safe client generation.
+Web app with Rails API and Angular frontend for managing weekly work hours.
 
 - **Features:** Multi-position shift tracking, hourly rate management, company organization, detailed reporting
-- **Technologies:** Ruby on Rails 8.0, Angular 20, TypeScript, OpenAPI, rswag, Bootstrap, SQLite
+- **Technologies:** Ruby on Rails, Angular, TypeScript, OpenAPI, rswag, Bootstrap, SQLite
 - **Innovation:** Contract-first development with automated TypeScript client generation from OpenAPI specs
 
 ### Maintracker - Vehicle Maintenance Tracker
 [Live Site](https://maintracker.dirschn.com) | [Details](/coding/maintracker/)
 
-A comprehensive vehicle maintenance tracking application built with Ruby on Rails.
+Full-stack Rails app for vehicle maintenance tracking, including fuel and service history logging.
 
 - **Features:** Fuel logging, maintenance records, expense tracking, MPG calculations
 - **Technologies:** Ruby on Rails, Bootstrap, SQL, Linux deployment
@@ -115,6 +135,11 @@ Custom 3D designs solving everyday problems, showcasing problem-solving and desi
 - Created functional household items using CAD software
 - Published designs on Thingiverse with positive community feedback
 - Demonstrates practical application of engineering principles
+
+## Awards
+
+**DRIVE Award** - *Pending*
+- Recognition for exceptional performance and contribution to team goals
 
 ## Professional Philosophy
 

@@ -38,9 +38,9 @@ feature_row:
 
 ## Recent Highlights
 
-**Lead Developer at Parsons Corporation** - Currently leading development of numerous projects, expanding my expertise in full stack development and team leadership.
+**Lead Software Engineer at Parsons Corporation** - Currently architecting secure communications platforms and cloud infrastructure solutions using Rails 8, Next.js, and multi-cloud deployments.
 
-**Full Stack Experience** - 7+ years combining transportation technology, content management systems, and web application development.
+**Proven Track Record** - 7+ years of professional software engineering experience building scalable Rails applications, API integrations, and modernizing legacy systems in production environments.
 
 **Always Learning** - Passionate about clean, maintainable code and staying current with modern development practices.
 

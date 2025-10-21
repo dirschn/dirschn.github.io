@@ -10,13 +10,13 @@ toc_label: "About Me"
 
 I'm a passionate full stack developer with a unique journey that combines computer engineering education with hands-on experience across transportation technology, content management, and web application development. My career has given me a broad perspective on how technology can solve real-world problems, from managing university transit systems to building secure communications platforms.
 
-Currently serving as Lead Developer at Parsons Corporation, I focus on creating robust, maintainable solutions using modern web technologies. My approach emphasizes clean code, user-centered design, and collaborative development practices.
+Currently serving as Lead Software Engineer at Parsons Corporation, I focus on creating robust, maintainable solutions using modern web technologies. My approach emphasizes clean code, user-centered design, and collaborative development practices.
 
 ## What Drives Me
 
 **Problem-Solving First:** Whether I'm debugging a complex Rails application or designing a 3D-printed solution for a household problem, I love the process of understanding challenges and crafting elegant solutions.
 
-**Continuous Learning:** Technology evolves rapidly, and I embrace that change. From my early days with embedded systems to current work with React and Node.js, I'm always expanding my toolkit.
+**Continuous Learning:** Technology evolves rapidly, and I embrace that change. From my early days with embedded systems to current work with Rails 8, Next.js, and cloud infrastructure, I'm always expanding my toolkit.
 
 **Quality Over Speed:** I believe in building things right the first time. Clean, well-documented code saves time and frustration down the road, both for future maintainers and users.
 
@@ -28,9 +28,9 @@ My programming journey began during my Computer Engineering studies at UMass Amh
 
 **Ruby on Rails Expert:** Discovered Rails during my time at UMass Transit IT and fell in love with the framework's emphasis on convention over configuration. Built multiple production applications and learned the importance of maintainable code.
 
-**Modern JavaScript Expertise:** Extensive experience with modern JavaScript principles and TypeScript, from complex frontend applications to full-stack development. Comfortable with contemporary frameworks like React and Vue.js as well as advanced language features.
+**Modern JavaScript/TypeScript Expertise:** Extensive experience with ES6+ JavaScript and TypeScript, from complex frontend applications to full-stack development. Comfortable with contemporary frameworks like React, Next.js, Angular, and Vue.js as well as advanced language features.
 
-**Multi-Language Adaptability:** Successfully transitioned between PHP content management systems, Python web applications, and Node.js APIs, demonstrating the ability to pick up new technologies quickly.
+**Multi-Language Adaptability:** Successfully transitioned between PHP content management systems, Python web applications, Go backend services, and Node.js APIs, demonstrating the ability to pick up new technologies quickly.
 
 ## Beyond the Keyboard
 
@@ -56,9 +56,9 @@ My cat Mouse supervises all these activities and provides excellent rubber duck-
 
 I'm excited about opportunities that combine my technical skills with meaningful impact. Ideal roles involve:
 
-- **Modern Web Technologies:** Ruby on Rails, JavaScript frameworks, and emerging tools
+- **Modern Web Technologies:** Ruby on Rails, React/Next.js, TypeScript, and cloud infrastructure
 - **Collaborative Teams:** Where code reviews and pair programming are standard practice
-- **Real-World Impact:** Building applications that solve genuine problems for real users
+- **Real-World Impact:** Building secure, scalable applications that solve genuine problems for real users
 - **Growth-Oriented Culture:** Companies that invest in their people's professional development
 
 ---
